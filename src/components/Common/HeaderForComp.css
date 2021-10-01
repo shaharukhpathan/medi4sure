@@ -1,0 +1,12 @@
+.headercomp{
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+    border:tomato 2px solid;
+    color: blue;
+    font-weight: bold;
+    border-top-right-radius: 50px;
+}
+.spandata{
+    padding-left: 5px;
+}
